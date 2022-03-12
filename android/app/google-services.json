@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "274437904564",
+    "project_id": "along-343911",
+    "storage_bucket": "along-343911.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274437904564:android:94aeb86efff56043d55fe1",
+        "android_client_info": {
+          "package_name": "com.leat.along"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274437904564-vk9odfftgu6jp7q0g5971sfvd2v663k8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAxnR6J8PRAUHLOZVPPsu6VK2CkQlEVM-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274437904564-vk9odfftgu6jp7q0g5971sfvd2v663k8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
